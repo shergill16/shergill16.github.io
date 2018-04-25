@@ -3,8 +3,8 @@
        }   
 * {box-sizing: border-box}
 body {font-family: "Lato", sans-serif;}
-/* RECIPE PAGE */
-.nav {
+
+.tab {
     float: left;
     border: 1px solid #ccc;
     background-color: maroon;
@@ -12,35 +12,37 @@ body {font-family: "Lato", sans-serif;}
     height: 100%;
 }
 
-.nav ul, li, a {
+.tab ul, li, a {
     display: block;
+    background-color: inherit;
     color: white;
     margin-top: 0px;
     padding: 12px 5px;
     width: 100%;
+    border: none;
+    outline: none;
     text-align: left;
+    cursor: pointer;
     font-size: 17px;
+    list-style-type: none;
     font-size: 16px;
     text-decoration:none;
 }
 
-.nav li:hover {
+.tab li:hover {
     background-color: #ddd;
 }
 
-.nav li.active {
+.tab li.active {
     background-color: #ccc;
 }
 
-.ingredients h1 {
-    text-align: center;
+.tabcontent {
+    float: left;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 70%;
+    border-left: none;
+    height: 300px;
 }
 
-.ingredients ul, li {
-    text-align: center;
-    
-}
-/* END OF RECIPE PAGE */
-
-<div style="h1:black;text-align:center;">
-</div>
