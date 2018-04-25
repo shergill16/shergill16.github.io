@@ -3,7 +3,7 @@
        }   
 * {box-sizing: border-box}
 body {font-family: "Lato", sans-serif;}
-<!-- RECIPE PAGE -->
+/* RECIPE PAGE */
 .nav {
     float: left;
     border: 1px solid #ccc;
