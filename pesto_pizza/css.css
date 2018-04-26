@@ -1,0 +1,101 @@
+ body {
+    background-color: #c3ffa3;
+    margin: 0 auto;
+    text-align: center;
+}   
+
+  .nav li {
+    display: inline;
+    white-space: pre;
+}
+
+  .nav a {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 14px 140px;
+    display: inline-block;
+    text-decoration: underline;
+}
+
+  .nav-pills {
+    margin-top: 0;
+    background-color: maroon;
+}
+
+  .nav-pills a:hover {
+    background-color: #ddd;
+}
+
+.ingredients h1 {
+    font-size: 40px;
+}
+
+.ingredients h2 {
+    font-size: 32px;
+}
+
+.ingredients ul, li {
+    color: black;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+.instructions h1 {
+    font-size: 40px;
+}
+
+.step1 img{
+    width: 500px;	
+    border: 1px solid black;
+    margin-bottom: 40px;
+}
+
+.step2 p {
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.step2 img{
+    width: 500px;	
+    border: 1px solid black;
+
+}
+
+.step3 p {
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.step3 img{
+    width: 500px;	
+    border: 1px solid black;
+
+}
+
+.step4 p {
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.step4 img{
+    width: 500px;	
+    border: 1px solid black;
+
+}
+
+
+.step5 p {
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.step5 img{
+    width: 500px;	
+    border: 1px solid black;
+
+}
