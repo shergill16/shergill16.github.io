@@ -2,8 +2,9 @@
     background-color: #c3ffa3;
     margin: 0 auto;
     text-align: center;
+    font-family: arial;
 }   
-
+/*START OF RECIPE PAGE*/
   .nav li {
     display: inline;
     white-space: pre;
@@ -16,6 +17,7 @@
     padding: 14px 140px;
     display: inline-block;
     text-decoration: underline;
+    font-family: times new roman;
 }
 
   .nav-pills {
@@ -45,44 +47,50 @@
     font-size: 40px;
 }
 
+.step1 p {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
 .step1 img{
-    width: 500px;	
+    width: 100%;	
     border: 1px solid black;
     margin-bottom: 40px;
 }
 
 .step2 p {
     text-align: center;
-    width: 600px;
+    width: 100%;
     margin: 0 auto;
 }
 
 .step2 img{
-    width: 500px;	
+    width: 100%;	
     border: 1px solid black;
 
 }
 
 .step3 p {
     text-align: center;
-    width: 600px;
+    width: 100%;
     margin: 0 auto;
 }
 
 .step3 img{
-    width: 500px;	
+    width: 100%;	
     border: 1px solid black;
 
 }
 
 .step4 p {
     text-align: center;
-    width: 600px;
+    width: 100%;
     margin: 0 auto;
 }
 
 .step4 img{
-    width: 500px;	
+    width: 100%;	
     border: 1px solid black;
 
 }
@@ -90,12 +98,13 @@
 
 .step5 p {
     text-align: center;
-    width: 600px;
+    width: 100%;
     margin: 0 auto;
 }
 
 .step5 img{
-    width: 500px;	
+    width: 100%;	
     border: 1px solid black;
 
 }
+/*END OF RECIPE PAGE*/
