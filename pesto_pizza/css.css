@@ -115,19 +115,23 @@
 div.ex4 {
          width: 100%;
          background-color:rgb(200, 234, 200) ;
+         text-align: left;
 }  
 
 div.ex3 {
          width: 100%;
          background-color:rgb(200, 234, 200) ;
+         text-align: left;
 }
 div.ex2 {
          width: 100%;
          background-color:rgb(200, 234, 200) ;
+         text-align: left;
 }
 div.ex1 {
     width: 100%;
     background-color:rgb(200, 234, 200) ;
+    text-align: left;
 }
 
 h3{
