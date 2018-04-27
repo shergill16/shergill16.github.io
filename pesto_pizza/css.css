@@ -113,20 +113,20 @@
 /* START OF REVIEWS PAGE*/
 
 div.ex4 {
-         width: 400px;
+         width: 100%;
          background-color:rgb(200, 234, 200) ;
 }  
 
 div.ex3 {
-         width: 1000px;
+         width: 100%;
          background-color:rgb(200, 234, 200) ;
 }
 div.ex2 {
-         width: 700px;
+         width: 100%;
          background-color:rgb(200, 234, 200) ;
 }
 div.ex1 {
-    width: 300px;
+    width: 100%;
     background-color:rgb(200, 234, 200) ;
 }
 
