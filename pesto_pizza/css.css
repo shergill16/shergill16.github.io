@@ -154,3 +154,7 @@ h1 {
     text-align: center;
 }
 /* END OF REVIEWS PAGE*/
+
+.homeimg img {
+ width: 100%;
+}
