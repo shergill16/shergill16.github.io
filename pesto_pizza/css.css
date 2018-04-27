@@ -4,7 +4,6 @@
     text-align: center;
     font-family: arial;
 }   
-/*START OF RECIPE PAGE*/
   .nav li {
     display: inline;
     white-space: pre;
@@ -28,6 +27,8 @@
   .nav-pills a:hover {
     background-color: #ddd;
 }
+
+/*START OF RECIPE PAGE*/
 
 .ingredients h1 {
     font-size: 40px;
